@@ -1,0 +1,19 @@
+********************Final term all commands************************
+
+1.touch os1.sh ( create  a file or directory .sh shell)
+
+2.vi os1.sh ( visual editor Probesh)
+
+3.press i  (that is insert mode other wise its By default it's command mode here we can't write)
+
+4.#!/bin/bash (to know bash location )
+
+5.echo or print something (here you insert or write something)
+
+6.press ECS keyword from the keyboard
+
+7. ./os1.sh ( to show the output)
+
+8.chmod 777 os1.sh( here os1.sh file name .sh (shell file) if the directory show the permition is denied that's time we write the command)  
+
+9. ./os1.sh (Again to show the output) 
