@@ -1,0 +1,4 @@
+Book:
+Silberschatz, A and Galvin, P (and Gagne, G), Operating System Concepts (Ninth or Tenth Edition)
+PDF Link:
+https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf
