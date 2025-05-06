@@ -1,0 +1,21 @@
+****************Mid lab-1***********************
+
+1.uname -m  (Architure of your running path)
+
+2.uname -r  (kernel version)
+
+3.ls (to show  Current Directory)
+
+4.pwd (path or print working directory)
+
+5.mkdir Os1   ( create a file/directory)
+
+6.mkdir os2 os3 os4 (multiple directory create )
+
+7.touch 0s1.txt ( create a text file that's name is 0s1.txt)
+
+8.touch os2.txt os3.txt os4.txt
+
+9.
+***********************************************************************
+
