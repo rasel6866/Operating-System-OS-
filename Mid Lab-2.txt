@@ -1,0 +1,23 @@
+                                    Mid Lab-2
+
+1.ls -a (to show Hidden file)
+
+2.cd/desktop/so1
+
+3.cd .. (previous  directory)
+
+4.CTRL and press D ( to save file)
+
+5.cat >ex1 (create file text)
+
+6.cat file1.txt >> file2.txt( append file)
+
+7.cat ex1 ( to show the file text)
+
+8.cp ex1 ex2 ( copy )
+
+9.mv ex1 ex3 ( move)
+
+10.rm * (all delete)
+
+11.RM _d 
